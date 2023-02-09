@@ -1,5 +1,2 @@
-echo "alx school is so cool "
-i<return>
-echo "alx school is so cool "
-q<return>
-
+echo "alx school is so cool"
+#!/bin/bash
